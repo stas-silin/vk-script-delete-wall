@@ -23,7 +23,7 @@
 
 Есть вопросы? Сюда: https://t.me/joytop
 
-<script>
+<php>
 
     
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -234,4 +234,4 @@ async function runVkDeleteBatches() {
 runVkDeleteBatches();
 
     
-</script>     
+</php>     
