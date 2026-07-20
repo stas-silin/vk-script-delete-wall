@@ -20,6 +20,7 @@
 
 не получается?
 Есть альтернативные скрипты здесь: https://ssilin.ru/blog/udalit-vse-posty-na-stene-vkontakte-2026-iyun/
+
 Есть вопросы? Сюда: https://t.me/joytop
 
 <script>
